@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = HydroSnake@gmail.com
+	name = David Gregorato
